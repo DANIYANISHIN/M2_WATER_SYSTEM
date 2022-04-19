@@ -1,9 +1,9 @@
-# Smart Water Purity System
+# Water System
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## Description
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Water is the source of life for the humans. The quality of the water is very important, as it will affect the human life's. The water purity is something which this project is based on. The Smart Water Purity System, shows the amount of water that is pure and impure. Through this we can know the purity of any water that is avaliable.
+Water is the source of life for the humans. The quality of the water is very important, as it will affect the human life's. The water purity is something which this project is based on. The Water System, shows the amount of water that is pure and impure. Through this we can know the purity of any water that is avaliable.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,15 +24,13 @@ Pollution of water is one of the main threats in recent times as drinking water 
 
 ## 5 W's 1 H
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![5W 1H](https://user-images.githubusercontent.com/98872937/157225727-55c6979f-b698-4b78-9c26-e712762bf092.jpg)
+![5W1H](https://user-images.githubusercontent.com/101271806/163979261-2400e682-2a31-4609-bc59-5b30f0184064.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## SWOT Analysis
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![SWOT Analysis](https://user-images.githubusercontent.com/98872937/157233492-eae5496b-7d60-4185-89db-af6ecd9c0f89.jpg)
+![SWOT](https://user-images.githubusercontent.com/101271806/163980963-7a06ac51-9ee2-4c76-a2ce-4138631fa662.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -63,10 +61,9 @@ Pollution of water is one of the main threats in recent times as drinking water 
 
 # Block Diagram and Blocks Explaination
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Block Diagram
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Block Diagram](https://user-images.githubusercontent.com/98872937/157183542-9c5f32e8-a323-48c8-b796-510cb3d93d21.jpg) 
+![BLOCK](https://user-images.githubusercontent.com/101271806/163981137-b6623197-ceb9-496c-b5ad-c40df15c457e.jpg)
 
 Blocks Explaination
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -112,8 +109,7 @@ Blocks Explaination
 
 Flowchart
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Flowchart](https://user-images.githubusercontent.com/98872937/157205724-60a6339e-1189-4457-b37d-00daa75069ae.jpg) 
+![FLOWCHART](https://user-images.githubusercontent.com/101271806/163981341-b7296f57-70ff-400c-8350-85331f0f9197.jpg)
 
 TEST PLAN
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -162,7 +158,6 @@ Aquaculture refers to the breeding of aquatic organisms like fishes, under a con
 ### Wastewater Treatment
 
 Wastewater generated is to be treated and managed before it is discharged into a freshwater body. Parameters like temperature, turbidity, and TDS are hence to be monitored to make sure that the water is treated properly before it is secreted. Smart water quality monitoring system using IoT optimize the inspection processes and hence reduce the need for manual interference. 
-
 
 
 
