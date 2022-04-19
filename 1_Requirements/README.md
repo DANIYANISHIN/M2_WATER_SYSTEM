@@ -24,15 +24,13 @@ Pollution of water is one of the main threats in recent times as drinking water 
 
 ## 5 W's 1 H
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![5W 1H](https://user-images.githubusercontent.com/98872937/157225727-55c6979f-b698-4b78-9c26-e712762bf092.jpg)
+![5W1H](https://user-images.githubusercontent.com/101271806/163977806-b724a491-b5fe-4665-8782-2819428eb964.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## SWOT Analysis
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![SWOT Analysis](https://user-images.githubusercontent.com/98872937/157233492-eae5496b-7d60-4185-89db-af6ecd9c0f89.jpg)
+![SWOT](https://user-images.githubusercontent.com/101271806/163978001-06ccbccd-37b9-42b9-b1ff-9ec694b5a7b0.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -60,6 +58,5 @@ Pollution of water is one of the main threats in recent times as drinking water 
 * The people will find out the purity of water that they use in everyday life.
 * The impure water could then be sent for purification. 
 * The amount of pure water in our day to day life.
-
 
 
