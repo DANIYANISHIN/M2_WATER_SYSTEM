@@ -1,1 +1,1 @@
-
+Water is the source of life for the humans. The quality of the water is very important, as it will affect the human life's. The water purity is something which this project is based on. The Water System, shows the amount of water that is pure and impure. Through this we can know the purity of any water that is avaliable.
