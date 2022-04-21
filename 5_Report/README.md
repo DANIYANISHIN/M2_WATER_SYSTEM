@@ -159,6 +159,16 @@ Aquaculture refers to the breeding of aquatic organisms like fishes, under a con
 
 Wastewater generated is to be treated and managed before it is discharged into a freshwater body. Parameters like temperature, turbidity, and TDS are hence to be monitored to make sure that the water is treated properly before it is secreted. Smart water quality monitoring system using IoT optimize the inspection processes and hence reduce the need for manual interference. 
 
+OUTPUT
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![op1](https://user-images.githubusercontent.com/101271806/164535540-089a425d-2343-48c4-83e0-caaa8aad084a.jpg)
+![op2](https://user-images.githubusercontent.com/101271806/164535564-23af2816-3aa9-432a-888e-ea71c8d6d82b.jpg)
+![op3](https://user-images.githubusercontent.com/101271806/164535584-ca8254b6-d8cb-4fc6-b130-91ac0420a183.jpg)
+![op4](https://user-images.githubusercontent.com/101271806/164535604-7c30d11a-7cd3-4678-90c7-a02c2e07765d.jpg)
+![op5](https://user-images.githubusercontent.com/101271806/164535623-7aaf71f4-c89c-4937-a761-e7d025e187f7.jpg)
+
+
 
 
 
